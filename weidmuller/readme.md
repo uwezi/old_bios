@@ -1,0 +1,10 @@
+Weidmüller
+211102
+ML-CPU v1.60
+27c512
+
+Weidmüller
+211402
+ML-AI v1.00
+87c257
+
